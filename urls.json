@@ -25,6 +25,7 @@
     "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt",
     "https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt",
     "https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt",
-    "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt"
+    "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
+    "https://raw.githubusercontent.com/mrbhanukab/TheBigList/master/Custom%20List%20(Included%20in%20Main%20Lists)/d3ward.github.io.txt"
   ]
 }
