@@ -38,23 +38,23 @@ The steps vary based on the browser/extension you use. These are general steps. 
 2. Navigate to 'add custom block list.'
 3. Copy the following URLs as needed and paste them into the appropriate fields.
 
->**AdBlock List**
+> **AdBlock List**
 >
->```url
->https://github.com/mrbhanukab/TheBigList/raw/master/ads.txt
->```
+> ```url
+> https://github.com/mrbhanukab/TheBigList/raw/master/ads.txt
+> ```
 >
->**Trackers List**
+> **Trackers List**
 >
->```url
->https://github.com/mrbhanukab/TheBigList/raw/master/trackers.txt
->```
+> ```url
+> https://github.com/mrbhanukab/TheBigList/raw/master/trackers.txt
+> ```
 >
->**Annoyances List**
+> **Annoyances List**
 >
->```url
->https://github.com/mrbhanukab/TheBigList/raw/master/annoyances.txt
->```
+> ```url
+> https://github.com/mrbhanukab/TheBigList/raw/master/annoyances.txt
+> ```
 
 ## Contribution Guidelines
 
@@ -74,23 +74,14 @@ TheBigList is the brainchild of [mrbhanukab](https://github.com/mrbhanukab). For
 
 ### Sources used in this project
 
-* [u](https://github.com/u)
-* [B](https://github.com/B)
-* [l](https://github.com/l)
-* [o](https://github.com/o)
-* [c](https://github.com/c)
-* [k](https://github.com/k)
-* [O](https://github.com/O)
-* [r](https://github.com/r)
-* [i](https://github.com/i)
-* [g](https://github.com/g)
-* [i](https://github.com/i)
-* [n](https://github.com/n)
-* [/](https://github.com//)
-* [u](https://github.com/u)
-* [A](https://github.com/A)
-* [s](https://github.com/s)
-* [s](https://github.com/s)
-* [e](https://github.com/e)
-* [t](https://github.com/t)
-* [s](https://github.com/s)
+- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)
+- [easylist/easylist](https://github.com/easylist/easylist)- [miyurusankalpa/adblock-list-sri-lanka](https://github.com/miyurusankalpa/adblock-list-sri-lanka)
+- [Ayesh/Adblock-Sinhala/](https://github.com/Ayesh/Adblock-Sinhala/)
+- [nicedirector/ADBlock](https://github.com/nicedirector/ADBlock)
+- [yous/YousList](https://github.com/yous/YousList)
+- [mediumkreation/IndianList](https://github.com/mediumkreation/IndianList)
+- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)
+- [mrbhanukab/TheBigList](https://github.com/mrbhanukab/TheBigList)
+- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds)
+- [easylist/easylist](https://github.com/easylist/easylist)- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)
+- [easylist/easylist](https://github.com/easylist/easylist)
