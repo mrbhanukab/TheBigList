@@ -12,7 +12,7 @@ TheBigList project aims to develop a comprehensive solution for blocking adverti
 
 ## Currently Blocking
 
-- **511,737** ad hosts
+- **511,740** ad hosts
 - **16,366** trackers
 - **18,491** annoyances
 
@@ -73,12 +73,13 @@ TheBigList is the brainchild of [mrbhanukab](https://github.com/mrbhanukab). For
 [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/bhanukabandara)
 
 ### Sources used in this project
-- [nicedirector/ADBlock](https://github.com/nicedirector/ADBlock)
+
+- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds)
+- [yous/YousList](https://github.com/yous/YousList)
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)
 - [Ayesh/Adblock-Sinhala/](https://github.com/Ayesh/Adblock-Sinhala/)
-- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds)
 - [easylist/easylist](https://github.com/easylist/easylist)
 - [mrbhanukab/TheBigList](https://github.com/mrbhanukab/TheBigList)
-- [miyurusankalpa/adblock-list-sri-lanka](https://github.com/miyurusankalpa/adblock-list-sri-lanka)
-- [yous/YousList](https://github.com/yous/YousList)
+- [nicedirector/ADBlock](https://github.com/nicedirector/ADBlock)
 - [mediumkreation/IndianList](https://github.com/mediumkreation/IndianList)
+- [miyurusankalpa/adblock-list-sri-lanka](https://github.com/miyurusankalpa/adblock-list-sri-lanka)
