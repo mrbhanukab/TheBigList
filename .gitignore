@@ -1,9 +1,11 @@
 #! Scripts
 main.py
 AddList.py
+readme.py
 
 #! Files
 projects.json
 Template.md
 form.html
-"Custom List (Included in Main Lists)"
+Custom_List/
+.vscode/
