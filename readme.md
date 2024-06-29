@@ -38,23 +38,23 @@ The steps vary based on the browser/extension you use. These are general steps. 
 2. Navigate to 'add custom block list.'
 3. Copy the following URLs as needed and paste them into the appropriate fields.
 
-> **AdBlock List**
+>**AdBlock List**
 >
-> ```url
-> https://github.com/mrbhanukab/TheBigList/raw/master/ads.txt
-> ```
+>```url
+>https://github.com/mrbhanukab/TheBigList/raw/master/ads.txt
+>```
 >
-> **Trackers List**
+>**Trackers List**
 >
-> ```url
-> https://github.com/mrbhanukab/TheBigList/raw/master/trackers.txt
-> ```
+>```url
+>https://github.com/mrbhanukab/TheBigList/raw/master/trackers.txt
+>```
 >
-> **Annoyances List**
+>**Annoyances List**
 >
-> ```url
-> https://github.com/mrbhanukab/TheBigList/raw/master/annoyances.txt
-> ```
+>```url
+>https://github.com/mrbhanukab/TheBigList/raw/master/annoyances.txt
+>```
 
 ## Contribution Guidelines
 
@@ -73,15 +73,12 @@ TheBigList is the brainchild of [mrbhanukab](https://github.com/mrbhanukab). For
 [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/bhanukabandara)
 
 ### Sources used in this project
-
-- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)
-- [easylist/easylist](https://github.com/easylist/easylist)- [miyurusankalpa/adblock-list-sri-lanka](https://github.com/miyurusankalpa/adblock-list-sri-lanka)
-- [Ayesh/Adblock-Sinhala/](https://github.com/Ayesh/Adblock-Sinhala/)
 - [nicedirector/ADBlock](https://github.com/nicedirector/ADBlock)
+- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)
+- [Ayesh/Adblock-Sinhala/](https://github.com/Ayesh/Adblock-Sinhala/)
+- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds)
+- [easylist/easylist](https://github.com/easylist/easylist)
+- [mrbhanukab/TheBigList](https://github.com/mrbhanukab/TheBigList)
+- [miyurusankalpa/adblock-list-sri-lanka](https://github.com/miyurusankalpa/adblock-list-sri-lanka)
 - [yous/YousList](https://github.com/yous/YousList)
 - [mediumkreation/IndianList](https://github.com/mediumkreation/IndianList)
-- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)
-- [mrbhanukab/TheBigList](https://github.com/mrbhanukab/TheBigList)
-- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds)
-- [easylist/easylist](https://github.com/easylist/easylist)- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)
-- [easylist/easylist](https://github.com/easylist/easylist)
